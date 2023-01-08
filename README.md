@@ -1,10 +1,17 @@
-<h1 align="center">Hi 👋, I'm Ajinkya Gokhale</h1>
+<img src="https://github.com/AjinkyaGokhale/AjinkyaGokhale/blob/main/Data/Intro_Hello_world.gif" align="center" style="width: 100%" />
+<h1 align="center">I'm Ajinkya Gokhale</h1>
 <h3 align="center">Exploring the frontiers of artificial intelligence and deep learning</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ajinkyagokhale&label=Profile%20views&color=0e75b6&style=flat" alt="ajinkyagokhale" /> </p>
 
-<p align="center"> <a href="https://twitter.com/gphreviews" target="blank"><img src="https://img.shields.io/twitter/follow/gphreviews?logo=twitter&style=for-the-badge" alt="gphreviews" /></a> </p>
-
+<p align="center">
+  <a href="http://twitter.com/gphreviews">
+    <img src="https://img.shields.io/twitter/follow/gphreviews?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Ajinkya Gokhale's Twitter"/>
+  </a>
+  <a href="http://youtube.com/@GPHreviews?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCXHeqhFzFZFzqNvzJgtYkHA?style=for-the-badge&logo=youtube&label=Youtube&color=blue" alt="Ajinkya Gokhale's YouTube channel"/>
+  </a>
+</p>
 
 - 👀 I’m interested in AI
 
@@ -14,15 +21,6 @@
 
 - 📫 How to reach me **ajinkyagokhale6@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gphreviews" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gphreviews" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gokajinkya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokajinkya" height="30" width="40" /></a>
-<a href="https://instagram.com/ajinkyagokhale_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajinkyagokhale_official" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@gphreviews" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@gphreviews" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fernweh00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fernweh00" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/fernweh00/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="fernweh00/profile" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -64,12 +62,37 @@
 <p align="left"> <a href="https://www.apple.com/in/macos" target="_blank" rel="noreferrer"> <img src="https://svgshare.com/i/TJ_.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
-  
+ ### Find me elsewhere:
+<p align="left">
+<a href="https://www.leetcode.com/fernweh00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fernweh00" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/fernweh00/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="fernweh00/profile" height="30" width="40" /></a>
+</p>
+
+ ---
 
  </p>
+<a href="https://github.com/AjinkyaGokhale/AjinkyaGokhale">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AjinkyaGokhale&theme=react" alt="Ajinkya's GitHub Stats" />
+</a>
+<a href="https://github.com/AjinkyaGokhale/AjinkyaGokhale">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkyagokhale&theme=react" alt="Ajinkya's GitHub Stats" />
+</a>
+</p>
+
+---
+### Some of my YouTube videos:
+
+<table>
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+  <tr><td><a href="https://youtu.be/itJz-FRChYQ"><img width="140px" src="https://img.youtube.com/vi/itJz-FRChYQ/sddefault.jpg"></a></td>
+<td><a href="https://youtu.be/itJz-FRChYQ">Don't Buy iPad Air and Macbook Now! - Free Airpods + Discount offer on Apple Online Store 2022</a> (May 31, 2022)<br/></td></tr>
+ 
+<tr><td><a href="https://youtu.be/sHfadwmt8hY"><img width="140px" src="https://img.youtube.com/vi/sHfadwmt8hY/sddefault.jpg"></a></td>
+<td><a href="https://youtu.be/sHfadwmt8hY">iPhone 12 PUBG Battery Drain Test - 100% to 0% | iPhone 12 Fails Shocking Results [Hindi]</a> (Nov 22, 2020)<br/></td></tr>
+ 
+ <tr><td><a href="https://youtu.be/h7Bkve6xhY4"><img width="140px" src="https://img.youtube.com/vi/h7Bkve6xhY4/sddefault.jpg"></a></td><td><a href="https://youtu.be/h7Bkve6xhY4">IPAD for Students INDIA - Note Taking on IPAD [Hindi]</a> (April 10, 2020)<br/></td></tr>
+ 
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+</table>
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajinkyagokhale&show_icons=true&locale=en" alt="ajinkyagokhale" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkyagokhale&" alt="ajinkyagokhale" /></p>
