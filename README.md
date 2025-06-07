@@ -23,19 +23,6 @@ const andy = {
   philosophy: "Build products that matter, not just code that works"
 };
 ```
-
-<div align="center">
-
-### ⏰ **Time Remaining**
-*Every second counts. Every product matters.*
-
-<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
-<div class="commonninja_component pid-d2a28e46-60b4-4655-bcdc-c2914f3b0509"></div>
-
-* • Assuming 80 years lifespan*
-
-</div>
-
 ---
 
 ## 🏆 **Products I've Built**
