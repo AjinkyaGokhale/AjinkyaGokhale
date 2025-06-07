@@ -5,8 +5,8 @@
 **IoT Product Creator • Cloud Solutions Architect • Serial Builder**
 
 [![Email](https://img.shields.io/badge/Email-ajinkyagokhale6%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:ajinkyagokhale6@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ajinkyagokhale)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@ajinkyagokhale)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gokhaleajinkya/)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@GPHReviews)
 
 </div>
 
@@ -155,7 +155,7 @@ I'm always interested in:
 
 **"Code is just the tool. Products are what matter."**
 
-[![LinkedIn](https://img.shields.io/badge/Join_me_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajinkyagokhale)
+[![LinkedIn](https://img.shields.io/badge/Join_me_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokhaleajinkya/)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=AjinkyaGokhale&color=58a6ff&style=flat-square&label=visitors)](https://github.com/AjinkyaGokhale)
 
