@@ -1,98 +1,175 @@
-<img src="https://github.com/AjinkyaGokhale/AjinkyaGokhale/blob/main/Data/Intro_Hello_world.gif" align="center" style="width: 100%" />
-<h1 align="center">I'm Ajinkya Gokhale</h1>
-<h3 align="center">Exploring the frontiers of artificial intelligence and deep learning</h3>
+# Ajinkya Gokhale (Andy)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ajinkyagokhale&label=Profile%20views&color=0e75b6&style=flat" alt="ajinkyagokhale" /> </p>
-
-<p align="center">
-  <a href="http://twitter.com/gphreviews">
-    <img src="https://img.shields.io/twitter/follow/gphreviews?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Ajinkya Gokhale's Twitter"/>
-  </a>
-  <a href="http://youtube.com/@GPHreviews?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCXHeqhFzFZFzqNvzJgtYkHA?style=for-the-badge&logo=youtube&label=Youtube&color=blue" alt="Ajinkya Gokhale's YouTube channel"/>
-  </a>
-</p>
-
-- 👀 I’m interested in AI
-
-- 🌱 I’m currently learning **Deep-Learning and Advanced Image Processing**
-
-- 💞️ I’m looking to collaborate on AI/ML
-
-- 📫 How to reach me **ajinkyagokhale6@gmail.com**
-
-
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-
- </p>
- 
- <h3 align="left">Frontend:</h3>
-<p align="left">
-
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.in/wordpress" target="_blank" rel="noreferrer"> <img src="https://tryreviews.com/wp-content/uploads/2023/01/wordpress-blue.svg" alt="wordpress" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></p>
+<div align="center">
   
-  <h3 align="left">AI/ML:</h3>
-<p align="left">
-   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+**IoT Product Creator • Cloud Solutions Architect • Serial Builder**
 
-</p> 
- 
-<h3 align="left">Softwares/Tools:</h3>
- 
-<p align="left">
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="premierpro" width="40" height="40"/> </a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> </p>
+[![Email](https://img.shields.io/badge/Email-ajinkyagokhale6%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:ajinkyagokhale6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ajinkyagokhale)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@ajinkyagokhale)
 
-
-<h3 align="left">OS:</h3>
-<p align="left"> <a href="https://www.apple.com/in/macos" target="_blank" rel="noreferrer"> <img src="https://svgshare.com/i/TJ_.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-
- ### Find me elsewhere:
-<p align="left">
-<a href="https://www.leetcode.com/fernweh00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fernweh00" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/fernweh00/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="fernweh00/profile" height="30" width="40" /></a>
-</p>
-
- ---
-
- </p>
-<a href="https://github.com/AjinkyaGokhale/AjinkyaGokhale">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AjinkyaGokhale&theme=react" alt="Ajinkya's GitHub Stats" />
-</a>
-<a href="https://github.com/AjinkyaGokhale/AjinkyaGokhale">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkyagokhale&theme=react" alt="Ajinkya's GitHub Stats" />
-</a>
-</p>
+</div>
 
 ---
-### Some of my YouTube videos:
+
+## 🚀 **Building Real Products**
+
+I don't just write code—I ship **real IoT products** that solve actual problems. From smart energy monitoring to privacy-focused email solutions, I turn ideas into products people use every day.
+
+```typescript
+const andy = {
+  mindset: "Ship fast, iterate faster",
+  currentFocus: ["IoT Hardware", "Privacy Tech", "Serverless Architecture"],
+  philosophy: "Build products that matter, not just code that works"
+};
+```
+
+<div align="center">
+
+### ⏰ **Time Remaining**
+*Every second counts. Every product matters.*
+
+<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
+<div class="commonninja_component pid-d2a28e46-60b4-4655-bcdc-c2914f3b0509"></div>
+
+* • Assuming 80 years lifespan*
+
+</div>
+
+---
+
+## 🏆 **Products I've Built**
+
+### 🔌 **[Stromleser](https://stromleser.de/)** - Smart Energy Monitor
+```bash
+# Real-time energy monitoring IoT device
+• WiFi-enabled IR reader for smart meters
+• Plug & Play installation - no electrician needed  
+• Tasmota-powered with Home Assistant integration
+• Shipping across Germany with 0% VAT for solar users
+```
+**Tech Stack:** `IoT Hardware` `Tasmota` `Home Assistant` `MQTT` `Real-time Analytics`
+
+### 📧 **Swapmails** - Email Privacy Redefined *(In Development)*
+```bash
+# Privacy-first email solution
+• Temporary email addresses for ultimate privacy
+• No tracking, no data collection
+• Built for the privacy-conscious generation
+```
+**Tech Stack:** `React` `Vite` `AWS CDK` `Serverless` `Lambda` `DynamoDB`
+
+---
+
+## ⚡ **Tech Arsenal**
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-  <tr><td><a href="https://youtu.be/itJz-FRChYQ"><img width="140px" src="https://img.youtube.com/vi/itJz-FRChYQ/sddefault.jpg"></a></td>
-<td><a href="https://youtu.be/itJz-FRChYQ">Don't Buy iPad Air and Macbook Now! - Free Airpods + Discount offer on Apple Online Store 2022</a> (May 31, 2022)<br/></td></tr>
- 
-<tr><td><a href="https://youtu.be/sHfadwmt8hY"><img width="140px" src="https://img.youtube.com/vi/sHfadwmt8hY/sddefault.jpg"></a></td>
-<td><a href="https://youtu.be/sHfadwmt8hY">iPhone 12 PUBG Battery Drain Test - 100% to 0% | iPhone 12 Fails Shocking Results [Hindi]</a> (Nov 22, 2020)<br/></td></tr>
- 
- <tr><td><a href="https://youtu.be/h7Bkve6xhY4"><img width="140px" src="https://img.youtube.com/vi/h7Bkve6xhY4/sddefault.jpg"></a></td><td><a href="https://youtu.be/h7Bkve6xhY4">IPAD for Students INDIA - Note Taking on IPAD [Hindi]</a> (April 10, 2020)<br/></td></tr>
- 
-<!-- YOUTUBE-VIDEOS-LIST:END -->
+<tr>
+<td width="50%">
+
+### 🔧 **Product Development**
+```javascript
+// From idea to market
+const productCycle = {
+  ideation: "Market research + user pain points",
+  mvp: "React + Vite + AWS CDK",
+  hardware: "IoT + embedded systems",
+  scale: "Serverless + global distribution"
+};
+```
+- **Frontend**: React, Vite, TypeScript, Modern CSS
+- **Backend**: AWS Lambda, DynamoDB, API Gateway
+- **Infrastructure**: AWS CDK, CloudFormation, Terraform
+- **IoT**: Tasmota, MQTT, Home Assistant, ESP32
+
+</td>
+<td width="50%">
+
+### ☁️ **Cloud Architecture**
+```python
+# Serverless-first approach
+import aws_cdk as cdk
+from constructs import Construct
+
+class ProductStack(Stack):
+    def __init__(self, scope, id, **kwargs):
+        # Build scalable, cost-effective solutions
+        super().__init__(scope, id, **kwargs)
+```
+- **Compute**: Lambda, Edge Functions, Containers
+- **Storage**: S3, DynamoDB, RDS Serverless
+- **Integration**: API Gateway, EventBridge, SQS
+- **Monitoring**: CloudWatch, X-Ray, Real User Monitoring
+
+</td>
+</tr>
 </table>
 
+---
 
+## 🎯 **Current Focus**
+
+<div align="center">
+
+| Product | Stage | Tech Stack | Launch |
+|---------|-------|------------|--------|
+| **Stromleser** | ✅ **Live & Shipping** | IoT + Tasmota + Home Assistant | Launched |
+| **Swapmails** | 🔄 **Beta Development** | React + Vite + AWS CDK | Q3 2025 |
+| **Next IoT Project** | 💡 **Ideation** | TBD | TBD |
+
+</div>
+
+---
+
+## 📊 **Development Activity**
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AjinkyaGokhale&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&custom_title=Ajinkya's%20GitHub%20Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AjinkyaGokhale&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</div>
+
+---
+
+## 🛠️ **My Development Philosophy**
+
+> **"Perfect is the enemy of shipped"**
+
+```bash
+# My product development approach
+1. Research actual user problems (not imaginary ones)
+2. Build MVP with modern stack (React + Vite + AWS CDK)
+3. Ship early, get feedback, iterate fast
+4. Scale with serverless architecture
+5. Focus on user experience over flashy features
+```
+
+---
+
+## 🚀 **What I'm Building Next**
+
+- 🔐 **Privacy-focused tools** that actually protect user data
+- 🏠 **Smart home solutions** that don't require a PhD to install
+- ☁️ **Serverless products** that scale without breaking the bank
+- 📱 **Mobile-first experiences** built with modern web tech
+
+---
+
+## 💡 **Let's Collaborate**
+
+I'm always interested in:
+- **Building real products** that solve genuine problems
+- **IoT hardware projects** with practical applications
+- **Privacy-tech initiatives** that respect users
+- **Serverless architectures** that actually make sense
+
+---
+
+<div align="center">
+
+**"Code is just the tool. Products are what matter."**
+
+[![LinkedIn](https://img.shields.io/badge/Join_me_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajinkyagokhale)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=AjinkyaGokhale&color=58a6ff&style=flat-square&label=visitors)](https://github.com/AjinkyaGokhale)
+
+</div>
