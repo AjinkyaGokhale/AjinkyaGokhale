@@ -1,6 +1,6 @@
 # Ajinkya Gokhale (Andy)
 
-<div align="center">
+<div align="left">
   
 **IoT Product Creator • Cloud Solutions Architect • Serial Builder**
 
