@@ -129,9 +129,7 @@ class ProductStack(Stack):
 ## **Development Activity**
 
 <div align="center">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=AjinkyaGokhale&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&custom_title=Ajinkya's%20GitHub%20Stats" />
-  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=AjinkyaGokhale&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjinkyaGokhale&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://streak-stats.demolab.com?user=AjinkyaGokhale&theme=highcontrast&hide_border=true" />
 </div>
 
 ---
