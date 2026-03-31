@@ -4,7 +4,7 @@
   
 **IoT Product Creator • Cloud Solutions Architect • Serial Builder**
 
-[![Email](https://img.shields.io/badge/Email-ajinkyagokhale6%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:ajinkyagokhale6@gmail.com)
+[![Email](https://img.shields.io/badge/Email-me%40ajinkyagokhale.com-blue?style=flat-square&logo=gmail)](mailto:me@ajinkyagokhale.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gokhaleajinkya/)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@GPHReviews)
 
@@ -12,20 +12,21 @@
 
 ---
 
-## 🚀 **Building Real Products**
+## **Building Real Products**
 
 I don't just write code—I ship **real IoT products** that solve actual problems. From smart energy monitoring to privacy-focused email solutions, I turn ideas into products people use every day.
 
 ```typescript
 const andy = {
   mindset: "Ship fast, iterate faster",
-  currentFocus: ["IoT Hardware", "Privacy Tech", "Serverless Architecture"],
+  currentFocus: ["Master's Thesis"],
+  availability: "Full-time roles from October 2026",
   philosophy: "Build products that matter, not just code that works"
 };
 ```
 ---
 
-## 🏆 **Products I've Built**
+## **Products I've Built**
 
 ### 🔌 **[Stromleser](https://stromleser.de/)** - Smart Energy Monitor
 ```bash
@@ -37,18 +38,19 @@ const andy = {
 ```
 **Tech Stack:** `IoT Hardware` `Tasmota` `Home Assistant` `MQTT` `Real-time Analytics`
 
-### 📧 **Swapmails** - Email Privacy Redefined *(In Development)*
+### 📧 **[SwapMails](https://swapmails.com/)** - Email Privacy Redefined *(Live)*
 ```bash
-# Privacy-first email solution
-• Temporary email addresses for ultimate privacy
-• No tracking, no data collection
-• Built for the privacy-conscious generation
+# Privacy-first serverless email platform
+• 1,000+ active users • 99.9% uptime • GDPR-compliant
+• Chrome Extension with 500+ installs — one-click temp address
+• AES-256 encryption, zero tracking, zero data collection
+• Handles 1000x traffic spikes via event-driven Lambda + SES
 ```
-**Tech Stack:** `React` `Vite` `AWS CDK` `Serverless` `Lambda` `DynamoDB`
+**Tech Stack:** `React` `AWS CDK v2` `Lambda` `SES` `DynamoDB` `Chrome Extension` `GDPR`
 
 ---
 
-## ⚡ **Tech Arsenal**
+## **Tech Arsenal**
 
 <table>
 <tr>
@@ -94,30 +96,47 @@ class ProductStack(Stack):
 
 ---
 
-## 🎯 **Current Focus**
+## **Certifications**
+
+<div align="center">
+
+<a href="https://www.credly.com/users/ajinkya.gokhale/badges">
+  <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="120" alt="AWS Certified AI Practitioner"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.credly.com/users/ajinkya.gokhale/badges">
+  <img src="https://images.credly.com/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob" width="120" alt="AWS Educate Introduction to Generative AI"/>
+</a>
+
+</div>
+
+---
+
+## **Current Focus**
 
 <div align="center">
 
 | Product | Stage | Tech Stack | Launch |
 |---------|-------|------------|--------|
 | **Stromleser** | ✅ **Live & Shipping** | IoT + Tasmota + Home Assistant | Launched |
-| **Swapmails** | 🔄 **Beta Development** | React + Vite + AWS CDK | Q3 2025 |
+| **SwapMails** | ✅ **Live & Growing** | React + AWS CDK v2 + Lambda + SES | Launched |
 | **Next IoT Project** | 💡 **Ideation** | TBD | TBD |
 
 </div>
 
 ---
 
-## 📊 **Development Activity**
+## **Development Activity**
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AjinkyaGokhale&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&custom_title=Ajinkya's%20GitHub%20Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AjinkyaGokhale&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=AjinkyaGokhale&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&custom_title=Ajinkya's%20GitHub%20Stats" />
+  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=AjinkyaGokhale&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjinkyaGokhale&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </div>
 
 ---
 
-## 🛠️ **My Development Philosophy**
+## **My Development Philosophy**
 
 > **"Perfect is the enemy of shipped"**
 
@@ -132,7 +151,7 @@ class ProductStack(Stack):
 
 ---
 
-## 🚀 **What I'm Building Next**
+## **What I'm Building Next**
 
 - 🔐 **Privacy-focused tools** that actually protect user data
 - 🏠 **Smart home solutions** that don't require a PhD to install
@@ -141,7 +160,7 @@ class ProductStack(Stack):
 
 ---
 
-## 💡 **Let's Collaborate**
+## **Let's Collaborate**
 
 I'm always interested in:
 - **Building real products** that solve genuine problems
