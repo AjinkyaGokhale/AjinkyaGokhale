@@ -99,7 +99,9 @@ class ProductStack(Stack):
 ## **Certifications**
 
 <div align="center">
-
+<a href="https://www.credly.com/users/ajinkya.gokhale/badges">
+  <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120" alt="AWS Certified Solutions Architect – Associate"/>
+</a>
 <a href="https://www.credly.com/users/ajinkya.gokhale/badges">
   <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="120" alt="AWS Certified AI Practitioner"/>
 </a>
